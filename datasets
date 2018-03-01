@@ -1,3 +1,42 @@
 http://www.ban.org/trash-transparency/
 
 The first report "Scam Recycling" shows 37 addresses in HK in the appendix starting on page 99, with geo-coordinates for about 2/3 of them. The second report (update 1, 2017) has another 12 listed and the third report (update 2, 2018) and other 4. So until now their research indicates that 53/205 trackers ended up in Hong Kong (while even more passed through the city but ended up elsewhere) and we must have about 35 exact geo-coordinates.
+Data we have:
+https://www.landsd.gov.hk/mapping/en/download/psi/index.htm
+https://www1.ozp.tpb.gov.hk/gos/default.aspx?#
+https://www1.ozp.tpb.gov.hk/gos/default.aspx?#
+http://publicdatahk.com/dataset/freshwater-watch-hk-data
+
+Data we don't have/ are denied access to:
+No reservoir, stream, soil pollution data
+No land zoning data, river and stream data for sale only (Land Department)
+
+Data we could try to find:
+Addresses of organic farms (any registry?)
+
+Other resources:
+http://senseable.mit.edu/monitour/
+http://liber-research.com/
+From the Agriculture, Fisheries and Conservation Department:
+Location No. of crop farms
+Sheung Shui 301
+Fanling 180
+Ta Kwu Ling 54
+Ping Che 110
+Sha Tau Kok 72
+Tai Po 170
+Sai Kung 32
+Sha Tin 15
+Tsuen Wan 51
+Tuen Mun 125
+Pat Heung 234
+Shap Pat Heung 111
+Ping Shan 92
+Ha Tsuen 105
+San Tin 89
+Kam Tin 72
+Wong Tai Sin 1
+Shek O 2
+Islands 109
+Kwun Tong 3
+Total 1928
